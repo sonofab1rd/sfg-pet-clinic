@@ -1,12 +1,12 @@
 package jake.springframework.sfgpetclinic.services;
 
-import java.util.Optional;
+import java.util.Set;
 
 public interface CrudService<T, ID> {
 
-    Iterable<T> findAll();
+    Set<T> findAll();
 
-    Optional<T> getById(ID id);
+    T getById(ID id);
 
     T save(T object);
 
