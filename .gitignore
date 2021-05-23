@@ -25,3 +25,8 @@ hs_err_pid*
 #intelli-j files
 **/.idea/workspace.xml
 **/.idea/tasks.xml
+/pet-clinic-data/target/failsafe-reports/failsafe-summary.xml
+/pet-clinic-web/target/failsafe-reports/failsafe-summary.xml
+/target/failsafe-reports/failsafe-summary.xml
+/pet-clinic-web/target/pet-clinic-web-0.0.1.jar.original
+/target/checkout/
