@@ -1,5 +1,14 @@
-/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/Pet.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/VetService.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/PetService.java
 /Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/Vet.java
 /Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/PetType.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/Pet.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/BaseEntity.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/map/VetServiceMap.java
 /Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/Owner.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/map/AbstractMapService.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/CrudService.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/map/PetServiceMap.java
+/Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/services/OwnerService.java
 /Users/jacobdierkens/spring-workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/jake/springframework/sfgpetclinic/model/Person.java

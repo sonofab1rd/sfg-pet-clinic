@@ -1,1 +1,5 @@
+jake/springframework/sfgpetclinic/controllers/IndexController.class
+jake/springframework/sfgpetclinic/controllers/VetController.class
+jake/springframework/sfgpetclinic/controllers/OwnerController.class
 jake/springframework/sfgpetclinic/SfgPetClinicApplication.class
+jake/springframework/sfgpetclinic/bootstrap/DataLoader.class
